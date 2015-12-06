@@ -20,9 +20,9 @@
 	 * JSDoc
 	 **/
 	"jsdocFileHeader": {
-		"prefix": "jfh",
+		"prefix": "jsdfile",
 		"body": "/**\n * @file \t\t${1:description}\n * @author \t\t${2:name} <${3:email}>\n * @since \t\t${4:version}\n * @copyright \t${5:license}\n **/",
-		"description": "JSDoc File Header Block"
+		"description": "JSDoc file header block"
 	},
 	 
 	
