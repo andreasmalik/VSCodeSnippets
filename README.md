@@ -54,3 +54,8 @@ Restart VSCode.
 I will extend the snippets for some features:
 
 * JSDoc-Comments
+
+
+##License
+
+VSCodeSnippets is released under the MIT license. See LICENSE for details.
