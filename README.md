@@ -26,11 +26,27 @@ for other operating systems and installation methods.
 
 ## Copy file
 
-Copy the javascript.json file to "~/Library/Application Support/Code/User/snippets"
+Open the Terminal and download the project with
+
+```
+$ git clone https://github.com/andreasmalik/VSCodeSnippets.git
+
+$ cd VSCodeSnippets/
+```
+
+Copy the javascript.json file to the VSCode snippet path
+
+```
+$ cp javascript.json ~/Library/Application Support/Code/User/snippets/
+```
+
+Restart VSCode.
 
 ## Copy Content 
 
 Open VSCode and select "Code" -> "Preferences" -> "User Snippets" and paste the content of the javascript.json file in it.
+
+Restart VSCode.
 
 
 # Todo
