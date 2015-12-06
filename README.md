@@ -18,14 +18,19 @@ I added some additional snippets for my personal tasks and styles. Hopefully you
 * Misc
 
 
-# Installation
+# Mac OS X Installation
 
-Copy the javascript.json file to "~/Library/Application Support/Code/User/snippets" or open VSCode and select 
-"Code"->"Preferences"->"User Snippets" and paste the content of the javascript.json file in it.
+You have several possible methods to install the snippets. Select your favorite one. 
+After changing the snippets you have to restart VSCode! Please read the VSCode-documentation
+for other operating systems and installation methods.
 
-Don't forget to restart VSCode!
+## Copy file
 
-Done.
+Copy the javascript.json file to "~/Library/Application Support/Code/User/snippets"
+
+## Copy Content 
+
+Open VSCode and select "Code" -> "Preferences" -> "User Snippets" and paste the content of the javascript.json file in it.
 
 
 # Todo
