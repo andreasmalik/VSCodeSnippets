@@ -24,6 +24,12 @@
 		"body": "/**\n * @file \t\t${1:description}\n * @author \t\t${2:name} <${3:email}>\n * @since \t\t${4:version}\n * @copyright \t${5:license}\n **/",
 		"description": "JSDoc file header block"
 	},
+	"jsdocClass": {
+		"prefix": "jsdclass",
+		"body": "/**\n * ${1:description}\n * @extends \t${2:class}\n **/",
+		"description": "JSDoc ES 2015 class block"
+	},
+	
 	 
 	
 	/**
