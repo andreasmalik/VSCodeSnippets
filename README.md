@@ -46,7 +46,7 @@ Restart VSCode.
 
 Open VSCode and select "Code" -> "Preferences" -> "User Snippets" and paste the content of the javascript.json file in it.
 
-Restart VSCode.
+Save the file.
 
 
 ## Todo
