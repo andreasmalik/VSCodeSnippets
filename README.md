@@ -7,7 +7,7 @@ https://marketplace.visualstudio.com/items/xabikos.JavaScriptSnippets.
 I added some additional snippets for my personal tasks and styles. Hopefully you like it!
 
 
-# Snippets
+## Snippets
 
 * Import
 * Export 
@@ -18,13 +18,13 @@ I added some additional snippets for my personal tasks and styles. Hopefully you
 * Misc
 
 
-# Mac OS X Installation
+## Mac OS X Installation
 
 You have several possible methods to install the snippets. Select your favorite one. 
 After changing the snippets you have to restart VSCode! Please read the VSCode-documentation
 for other operating systems and installation methods.
 
-## Copy file
+### Copy file
 
 Open the Terminal and download the project with
 
@@ -42,14 +42,14 @@ $ cp javascript.json ~/Library/Application Support/Code/User/snippets/
 
 Restart VSCode.
 
-## Copy Content 
+### Copy Content 
 
 Open VSCode and select "Code" -> "Preferences" -> "User Snippets" and paste the content of the javascript.json file in it.
 
 Restart VSCode.
 
 
-# Todo
+## Todo
 
 I will extend the snippets for some features:
 
