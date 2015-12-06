@@ -53,7 +53,8 @@ Restart VSCode.
 
 I will extend the snippets for some features:
 
-* JSDoc-Comments
+* Complete snippets for JSDoc.
+* Documentation with all commands (table) in README.md.
 
 
 ##License
