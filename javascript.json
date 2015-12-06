@@ -26,7 +26,7 @@
 	},
 	"jsdocClass": {
 		"prefix": "jsdclass",
-		"body": "/**\n * ${1:description}\n * @extends \t${2:class}\n **/",
+		"body": "\n\n\n\n\n\n/**\n * ${1:description}\n * @extends \t${2:class}\n **/",
 		"description": "JSDoc ES 2015 class block"
 	},
 	
