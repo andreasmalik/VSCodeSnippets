@@ -195,6 +195,11 @@
 	/**
 	 * Misc
 	 **/
+	"distance": {
+		"prefix": "dis",
+		"body": "\n\n\n\n\n",
+		"description": "Creates an optical distance between items of 5 free lines"
+	},
 	"destructingObject": {
 		"prefix": "dob",
 		"body": "const { ${1:propertyName} } = ${2:objectToDestruct};\n",
