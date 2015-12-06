@@ -9,6 +9,7 @@ I added some additional snippets for my personal tasks and styles. Hopefully you
 
 ## Snippets
 
+* JSDoc Blocks
 * Import
 * Export 
 * Classes / Methods / Properties
@@ -51,10 +52,7 @@ Save the file.
 
 ## Todo
 
-I will extend the snippets for some features:
-
-* Complete snippets for JSDoc.
-* Documentation with all commands (table) in README.md.
+* Documentation with all commands as a table in README.md.
 
 
 ##License
