@@ -19,6 +19,11 @@
 	/**
 	 * JSDoc
 	 **/
+	"jsdocDescription": {
+		"prefix": "jsddesc",
+		"body": "/**\n * ${1:description}\n **/",
+		"description": "JSDoc description block"
+	},
 	"jsdocFileHeader": {
 		"prefix": "jsdfile",
 		"body": "/**\n * @file \t\t${1:description}\n * @author \t\t${2:name} <${3:email}>\n * @since \t\t${4:version}\n * @copyright \t${5:license}\n **/",
