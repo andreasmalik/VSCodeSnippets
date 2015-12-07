@@ -19,10 +19,15 @@
 	/**
 	 * Nodeunit
 	 **/
-	"nodeunit": {
+	"nodeunitTestCase": {
 		"prefix": "nutest",
 		"body": "exports.test${1:Name} = function( test )\n{\n\n\ttest.expect(${2:number});\n\t${3://testcases}\n\ttest.done();\n\n};",
 		"description": "Nodeunit test case method"
+	},
+	"nodeunitTestGroup": {
+		"prefix": "nugroup",
+		"body": "exports.${1:groupname} = \n{\n\n\ttest${2:Name1}: function( test )\n\t\t{\n\n\t\ttest.expect( ${3:number} );\n\t\t${4://testcases}\n\t\ttest.done();\n\n\t},\n\n\ttest${5:Name2}: function( test )\n\t\t{\n\n\t\ttest.expect( ${6:number} );\n\t\t${7://testcases}\n\t\ttest.done();\n\n\t}\n\n}",
+		"description": "Nodeunit test group"
 	},
 	
 	/**

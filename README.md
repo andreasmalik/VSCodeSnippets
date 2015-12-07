@@ -14,6 +14,7 @@ I added some additional snippets for my personal tasks and styles. Hopefully you
 | Name  							| Prefix / Command	| 
 | :------------ 					|:----------------- |
 | Nodeunit test case method      	| nutest 			|
+| Nodeunit test group     			| nugroup 			|
 
 
 ### JSDoc
