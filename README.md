@@ -11,13 +11,25 @@ I added some additional snippets for my personal tasks and styles. Hopefully you
 
 ### Nodeunit
 
-| Name  					| Prefix / Command	| 
-| :------------ 			|:----------------- |
-| Node Unit Test Case      	| nutest 			|
+| Name  							| Prefix / Command	| 
+| :------------ 					|:----------------- |
+| Nodeunit test case method      	| nutest 			|
 
-Other possible snippets (documentation will follow):
 
-* JSDoc Blocks
+### JSDoc
+
+| Name  												| Prefix / Command	| 
+| :------------ 										|:----------------- |
+| JSDoc description block      							| jsddesc 			|
+| JSDoc file header block      							| jsdfile 			|
+| JSDoc class block for ES6 2015 specification     		| jsdclass 			|
+| JSDoc set property block for ES6 2015 specification  	| jsdset 			|
+| JSDoc get property block for ES6 2015 specification   | jsdget 			|
+| JSDoc method block for ES6 2015 specification   		| jsdmet 			|
+
+
+### Other possible snippets (documentation will follow):
+
 * Import
 * Export 
 * Classes / Methods / Properties

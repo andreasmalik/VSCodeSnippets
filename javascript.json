@@ -22,7 +22,7 @@
 	"nodeunit": {
 		"prefix": "nutest",
 		"body": "exports.test${1:Name} = function( test )\n{\n\n\ttest.expect(${2:number});\n\t${3://testcases}\n\ttest.done();\n\n};",
-		"description": "Nodeunit test method"
+		"description": "Nodeunit test case method"
 	},
 	
 	/**
@@ -41,22 +41,22 @@
 	"jsdocClass": {
 		"prefix": "jsdclass",
 		"body": "\n\n\n\n\n\n/**\n * ${1:description}\n * @extends \t${2:class}\n **/",
-		"description": "JSDoc ES 2015 class block"
+		"description": "JSDoc class block for ES6 2015 specification"
 	},
 	"jsdocGetter": {
 		"prefix": "jsdget",
 		"body": "\n\n\n/**\n * ${1:description}\n * @return \t\t{${2:type}} The ${3:name} value.\n **/",
-		"description": "JSDoc ES 2015 get property block"
+		"description": "JSDoc get property block for ES6 2015 specification"
 	},
 	"jsdocSetter": {
 		"prefix": "jsdset",
 		"body": "\n\n\n/**\n * ${1:description}\n * @param \t\t{${2:type}} ${3:name} - The ${3:name} value.\n **/",
-		"description": "JSDoc ES 2015 get property block"
+		"description": "JSDoc set property block for ES6 2015 specification"
 	},
 	"jsdocMethod": {
 		"prefix": "jsdmet",
 		"body": "\n\n\n\n\n/**\n * ${1:description}\n * @param \t\t{${2:type}} ${3:name} - ${4:description}\n * @return \t\t{${5:type}} ${6:description}\n **/",
-		"description": "JSDoc ES 2015 method block"
+		"description": "JSDoc method block for ES6 2015 specification"
 	},
 	
 	
