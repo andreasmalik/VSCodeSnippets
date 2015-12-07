@@ -17,6 +17,15 @@
 {
 	
 	/**
+	 * Nodeunit
+	 **/
+	"nodeunit": {
+		"prefix": "nutest",
+		"body": "exports.test${1:Name} = function( test )\n{\n\n\ttest.expect(${2:number});\n\t${3://testcases}\n\ttest.done();\n\n};",
+		"description": "Nodeunit test method"
+	},
+	
+	/**
 	 * JSDoc
 	 **/
 	"jsdocDescription": {
@@ -210,10 +219,15 @@
 		"body": "'use strict';",
 		"description": "Activate strict mode"
 	},
-	"distance": {
+	"shortDistance": {
 		"prefix": "dis",
+		"body": "\n\n\n",
+		"description": "Creates an optical distance between items of 3 free lines"
+	},
+	"longDistance": {
+		"prefix": "ldis",
 		"body": "\n\n\n\n\n",
-		"description": "Creates an optical distance between items of 5 free lines"
+		"description": "Creates an optical long distance between items of 5 free lines"
 	},
 	"destructingObject": {
 		"prefix": "dob",
