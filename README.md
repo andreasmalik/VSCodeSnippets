@@ -38,7 +38,7 @@ $ cd VSCodeSnippets/
 Copy the javascript.json file to the VSCode snippet path
 
 ```
-$ cp javascript.json ~/Library/Application Support/Code/User/snippets/
+$ cp javascript.json ~/Library/Application\ Support/Code/User/snippets/
 ```
 
 Restart VSCode.
