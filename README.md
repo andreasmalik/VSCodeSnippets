@@ -9,6 +9,14 @@ I added some additional snippets for my personal tasks and styles. Hopefully you
 
 ## Snippets
 
+### Nodeunit
+
+| Name  					| Prefix / Command	| 
+| :------------ 			|:----------------- |
+| Node Unit Test Case      	| nutest 			|
+
+Other possible snippets (documentation will follow):
+
 * JSDoc Blocks
 * Import
 * Export 
