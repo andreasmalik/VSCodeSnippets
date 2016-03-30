@@ -29,9 +29,19 @@ I added some additional snippets for my personal tasks and styles. Hopefully you
 | JSDoc method block for ES6 2015 specification   		| jsdmet 			|
 
 
+### Import
+
+| Name  												                            | Prefix / Command	| 
+| :------------ 										                            |:----------------- |
+| Imports entire module statement in ES6 syntax			                            | imp 			    |
+| Imports only a portion of the module in ES6 syntax	                            | imd 			    |
+| Imports everything as alias from the module in ES6 syntax	                        | ime 			    |
+| Imports a specific portion of the module by assigning a local alias in ES6 syntax	| ima 			    |
+| Export named function in ES6 syntax	                                            | enf 			    |
+
+
 ### Other possible snippets (documentation will follow):
 
-* Import
 * Export 
 * Classes / Methods / Properties
 * Loops
@@ -69,11 +79,6 @@ Restart VSCode.
 Open VSCode and select "Code" -> "Preferences" -> "User Snippets" and paste the content of the javascript.json file in it.
 
 Save the file.
-
-
-## Todo
-
-* Documentation with all commands as a table in README.md.
 
 
 ##License
