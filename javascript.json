@@ -89,16 +89,16 @@
 		"prefix": "ima",
 		"body": "import {${1:originalName} as ${2:alias} } from '${3:module}';\n$0",
 		"description": "Imports a specific portion of the module by assigning a local alias in ES6 syntax"
-	},  
+	},
+	
+	/**
+	 * Export
+	 **/    
 	"exportNamedFunction": {
 		"prefix": "enf",
 		"body": "export const ${1:functionName} = ( ${2:params} ) =>  {\n\t$0\n};\n",
 		"description": "Export named function in ES6 syntax"
 	},
-	
-	/**
-	 * Export
-	 **/  
 	"exportDefaultFunction": {
 		"prefix": "edf",
 		"body": "export default ( ${1:params} ) =>  {\n\t$0\n};\n",

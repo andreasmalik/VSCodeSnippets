@@ -37,12 +37,11 @@ I added some additional snippets for my personal tasks and styles. Hopefully you
 | Imports only a portion of the module in ES6 syntax	                            | imd 			    |
 | Imports everything as alias from the module in ES6 syntax	                        | ime 			    |
 | Imports a specific portion of the module by assigning a local alias in ES6 syntax	| ima 			    |
-| Export named function in ES6 syntax	                                            | enf 			    |
 
 
 ### Other possible snippets (documentation will follow):
 
-* Export 
+* Export
 * Classes / Methods / Properties
 * Loops
 * Functions
